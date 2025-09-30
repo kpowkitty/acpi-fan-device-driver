@@ -1,0 +1,1 @@
+savedcmd_/home/student/school/driver/Module/virtfan.mod := printf '%s\n'   virtfan.o | awk '!x[$$0]++ { print("/home/student/school/driver/Module/"$$0) }' > /home/student/school/driver/Module/virtfan.mod

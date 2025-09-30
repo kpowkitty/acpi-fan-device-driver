@@ -1,0 +1,1 @@
+savedcmd_/home/student/school/driver/Module/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/student/school/driver/Module/Module.symvers -T /home/student/school/driver/Module/modules.order -i Module.symvers -e 
