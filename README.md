@@ -50,3 +50,8 @@ sudo insmod virtfan.ko
 cd ../Test
 sudo make clean
 sudo make run
+```
+
+---
+
+Please see `writeup.pdf` for more information on the design process of this driver.
